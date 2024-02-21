@@ -1,0 +1,8 @@
+int main()
+{
+    printf("MY NAME IS SHEM OMBUI\n");
+    printf("MY COURSE IS CIVIL ENGINEERING\n");
+    printf("MY FAVOURITE TEAM IS CHELSEA\n");
+    printf("MY FAVOURITE MEAL IS MATOKE \n");
+    return 0;
+}
